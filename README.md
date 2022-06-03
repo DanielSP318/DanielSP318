@@ -4,7 +4,7 @@
 - 🌱 Estou estudando Full-Stack
 - 👯 Projeto coringa: https://github.com/DanielSP318/arquitetura_rest_complet
 - 😄 Pronomes: Ele/Dele
-- 🌈 Pride Gay
+
 
 ##
 
