@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Daniel Silva 👋
 
 - 🔭 Hoje eu trabalho com Front-end
-- 🌱 Estou estudando Anaálise e Desenvolvimento de Sistema no UDF
+- 🌱 Estou estudando Análise e Desenvolvimento de Sistema no UDF
 - 👯 Projeto coringa: https://github.com/DanielSP318/arquitetura_rest_complet
 - 😄 Pronomes: Ele/Dele
 
